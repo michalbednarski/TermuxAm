@@ -1,3 +1,5 @@
+# Moved to https://github.com/termux/TermuxAm
+
 # Android Oreo-compatible `am` command reimplementation
 `am` (Activity Manager) command in Android can be used to start Activity
 or send Broadcast from shell, however since Android Oreo that command
